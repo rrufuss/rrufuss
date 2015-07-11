@@ -1,0 +1,9 @@
+# Site settings
+title: rrufuss
+description: > # this means to ignore newlines until "baseurl:"
+  a collection of web developement resources.
+baseurl: "" # the subpath of your site, e.g. /blog/
+github_username:  rrufuss
+
+# Build settings
+markdown: kramdown
