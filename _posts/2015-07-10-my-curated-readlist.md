@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Curated Readlist"
-date:   2015-07-10 13:47:42
+date:   2015-07-17 23:26:34
 categories: webdev
 ---
 
@@ -52,7 +52,9 @@ Below is a list of what I've read (or been reading); in no particular order.
 
  - [StackOverFlow](http://www.stackoverflow.com)
 	- Find solutions to your problems.
-
+	
+ - [CodeWars](http://www.codewars.com)
+	- There is a saying of *Talk is cheap. Show me the code*. In Codewars site, it kinda does that. By learning code and comparing it with others, Codewars is quite an addictive site which makes you a better coder in python, javascript, coffescript, clojure, java, c# ... and a lot more.
 
  - [Bento](http://www.bento.io)
 	- A *Free*, well-organised collection of webdev materials. Learn from zero to hero by finishing the tracks. I'm currently working on it.

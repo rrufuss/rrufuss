@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rrufuss</title>
-    <description>A collection of webdev resources.
+    <description>a collection of web developement resources.
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 Jul 2015 16:01:05 +0800</pubDate>
-    <lastBuildDate>Sat, 11 Jul 2015 16:01:05 +0800</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2015 00:30:40 +0800</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2015 00:30:40 +0800</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -87,6 +87,11 @@
       &lt;li&gt;Find solutions to your problems.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.codewars.com&quot;&gt;CodeWars&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;There is a saying of &lt;em&gt;Talk is cheap. Show me the code&lt;/em&gt;. In Codewars site, it kinda does that. By learning code and comparing it with others, Codewars is quite an addictive site which makes you a better coder in python, javascript, coffescript, clojure, java, c# … and a lot more.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.bento.io&quot;&gt;Bento&lt;/a&gt;
     &lt;ul&gt;
       &lt;li&gt;A &lt;em&gt;Free&lt;/em&gt;, well-organised collection of webdev materials. Learn from zero to hero by finishing the tracks. I’m currently working on it.&lt;/li&gt;
@@ -116,9 +121,9 @@
  	- with a simple ui, panda fetches news from Hacker News, Desginer News, Lobster, Product Hunt, Dribbles … etc. Very convenient.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Fri, 10 Jul 2015 21:47:42 +0800</pubDate>
-        <link>/webdev/2015/07/10/my-curated-readlist.html</link>
-        <guid isPermaLink="true">/webdev/2015/07/10/my-curated-readlist.html</guid>
+        <pubDate>Sat, 18 Jul 2015 07:26:34 +0800</pubDate>
+        <link>/webdev/2015/07/18/my-curated-readlist.html</link>
+        <guid isPermaLink="true">/webdev/2015/07/18/my-curated-readlist.html</guid>
         
         
         <category>webdev</category>
